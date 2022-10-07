@@ -22,7 +22,7 @@ public class A5_program
 		 A5_program aa = new A5_program(101,"Raj","lucknow");
 		 A5_program a1 = new A5_program(102,"Vijay","ghaziabad");
 		 
-		 
+		 System.out.println("this is anand");
 		 System.out.println(aa.rollno);
 		
 		 System.out.println(aa.name);
