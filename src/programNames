@@ -4,6 +4,7 @@
 4--A4_program -- "this program will show the use of iterate through collections"
 5--A5_program -- "How to use toString() method in java programs "------
 6--A6_program -- "Convert object to string"--
-7-- A7_program -- " use of "VALUEOF()" method"-- trying for pull request..
+7-- A7_program -- " use of "VALUEOF()" method -- Converted interger to string"-- 
 8--A8_program -- "/ converting string to integers , float , double.."
-9--A9_program -- ""
+9--A9_program -- " object creation and iterate through object."
+10--A10_program -- "array of object and its iteration..."
