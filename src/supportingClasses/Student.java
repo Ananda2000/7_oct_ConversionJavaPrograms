@@ -26,5 +26,12 @@ public class Student
 		this.rollno = rollno;
 	}
 	
+	public String toString() {
+		return(this.getAge() + "-"+this.getName()+"-"+this.getRollno());
+	}
+	
+	
+	
+	
 
 }
